@@ -1,0 +1,19 @@
+{
+    "extends": "eslint-config-egg",
+    "parser": "babel-eslint",
+    "rules": {
+        "indent": [
+            0,
+            4
+        ],
+        "space-before-function-paren": [
+            "error",
+            {
+                "anonymous": "always",
+                "named": "always",
+                "asyncArrow": "always"
+            }
+        ],
+        "array-bracket-spacing": [2, "never"]
+    }
+}
