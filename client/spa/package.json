@@ -27,7 +27,7 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-vue": "^5.0.0",
     "lib-flexible": "^0.3.2",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "postcss-px2rem": "^0.3.0",
     "postcss-pxtorem": "^4.0.1",
     "prettier": "^1.18.2",
